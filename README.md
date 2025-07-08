@@ -1,1 +1,1 @@
-# simple-domain-name-checker
+# domain-name-checker
